@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Adminstrator email
-ADMIN_EMAIL="admin@mail.com
+ADMIN_EMAIL="admin@mail.com"
 
 # Number of days before sending notification 
 THRESHOLD_DAYS=90 
